@@ -1,1 +1,3 @@
-# desing-pattern
+# design-pattern
+
+Programing design pattern with Java
